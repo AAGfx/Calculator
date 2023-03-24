@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\net6.0-windows\publish\Calculator.exe
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\net6.0-windows\publish\Calculator.dll
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\net6.0-windows\publish\Calculator.deps.json
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\net6.0-windows\publish\Calculator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\net6.0-windows\publish\Calculator.pdb
